@@ -1,4 +1,4 @@
 [ubuntu18]
-10.0.2.15 ansible_user=gafa
+172.17.0.1 ansible_user=gafa
 
 
